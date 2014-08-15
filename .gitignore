@@ -21,3 +21,6 @@ _testmain.go
 
 *.exe
 *.test
+
+#</3 my mac
+.DS_Store
